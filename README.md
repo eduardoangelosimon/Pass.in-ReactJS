@@ -8,8 +8,8 @@
   <a href="#-tecnologias">Tecnologias</a> | <a href="#-o-projeto">O Projeto</a> | <a href="#-teste-a-aplicação">Teste a Aplicação</a>
 </div>
 
-<img src="/assets/to_readme/computer-banner-passin.png">
-<img src="/assets/to_readme/screens-mobile-passin.png">
+<img src="/assets/to_readme/pc-banner-passin.png">
+<img src="/assets/to_readme/Projeto-ReactJS.png">
 
   # 👷🏻 O Projeto
 Desenvolvimento de uma aplicação mobile em React Native, aplicação dos conceitos de Propriedades, Estados e Componentes, tipagem com Typescript, Expo Framework, interface com Native Wind, gerenciamento de estado global com Zustand, roteamento por arquivos com Expo Router, consumo de API Node.js, animações com Moti.
