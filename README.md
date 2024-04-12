@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="/assets/images/icon.png" style="width:200px;">
 </div>
