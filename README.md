@@ -25,7 +25,7 @@ Desenvolvimento de uma aplicação front-end em ReactJS, aplicação dos conceit
 # 🚀 Tecnologias
 Estas são as tecnologias utilizadas no desenvolvimento do projeto:
 
-- <a href="hhttps://react.dev/" target="_blank">ReactJS</a> <br>
+- <a href="https://react.dev/" target="_blank">ReactJS</a> <br>
 - <a href="https://www.typescriptlang.org/docs/" target="_blank">TypeScript</a> <br>
 - <a href="https://tailwindcss.com/" target="_blank">TailwindCSS</a> <br>
 - <a href="https://vitejs.dev/" target="_blank">Vite</a> <br>
