@@ -13,7 +13,7 @@
   # 👷🏻 O Projeto
 Desenvolvimento de uma aplicação front-end em ReactJS, aplicação dos conceitos de Propriedades, Estados e Componentes, tipagem com Typescript, tooling com Vite, interface responsiva com TailwindCSS, consumo de API Node.js, uso de URL states.
 
- O projeto desenvolvido e ministrado pela Rocketseat no decorrer da trilha de ReactJS da NLW Unite. O programa é uma plataforma web para visualização de usuários inscritos em eventos presenciais. O objetivo principal da aplicação é fornecer uma visão geral para o usuário sobre os dados dos integrantes inscritos nos eventos.
+ O projeto foi desenvolvido e ministrado pela Rocketseat no decorrer da trilha de ReactJS da NLW Unite. O programa é uma plataforma web para visualização de usuários inscritos em eventos presenciais. O objetivo principal da aplicação é fornecer uma visão geral para o usuário sobre os dados dos integrantes inscritos nos eventos.
 
 # 🤳🏻 Funcionalidades
 
